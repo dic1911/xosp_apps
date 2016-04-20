@@ -4,15 +4,17 @@
 #XOSPApps
 
   - What are those?
-  From Release 2 Revision 2 XOSP will be build in a different kind of way. In order to allow the Maintainer to choose what apps to include in their builds i decided to create a separate zip package which it will be flashed right after the ROM compilation process.
- - How to build them?
- You don't need to do anything, the build environment will do that for you right after you start the compilation process for your device and it will automatically create a flashable zip to the out folder of your target device. 
+  XOSPApps are the complete set of Xperia Apps, it is separate universal flashable zip for arm and x86 devices compatible with XOSP ROM
+  - Why separated?
+  Because Deltas will be integrated soon in the ROM and the XOSPApps zip cannot be resized and unpacked because of compression and also because the ROM size is too heavy and for the fact that the apps are universal, i mean nothing is changed for any of our devices, so it's useless to include them in each ROM Zip, but instead we will include only Home.apk and textinput-tng as included apps in the ROM,and for the other ones the user will have to download the apps separate as for the GApps. 
+  - So for each release i will need to download the XOSPApps?
+  Not necessary, because with Deltas i will make more releases with small fixes and with no Xperia Updates maybe, so the when you will apply a Delta update the current XOSPApps will be backuped and restored after the installation.
 
 ##NOTES
 
   - These Apps are ment to be flashed only on XOSP ROM, so please do NOT use them on other kind of ROM 
-  - If you want to use the apps for other porpouse then don't forget to write where did you picked them.
-  - The Apps are universally ported for arm and x86 based Architecture so there are not tested on arm64 based architecture 
+  - If you want to use the apps for other porpouse then don't forget to write from where did you picked them.
+  - The Apps are universally ported for arm and x86 based architecture but there are NOT tested on arm64 based architecture 
 
 ##XPERIA Apps included in XOSPApps package:
 
@@ -38,4 +40,4 @@
 ##Credits
 
   - Sony (For everything)
-  - Xperia Community for many stuff and also for the initial System dumps provided 
+  - Xperia Community for many stuff and also for the initial System dumps provided
