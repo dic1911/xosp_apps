@@ -39,6 +39,7 @@ app/SmartConnect/SmartConnect.apk
 app/WallpaperPicker/WallpaperPicker.apk
 app/Weather/Weather.apk
 app/WeatherWidget/WeatherWidget.apk
+app/WorldClockWidget/WorldClockWidget.apk
 priv-app/Album/Album.apk
 priv-app/Album/lib/arm/libdrmstream_depjb.so
 priv-app/Album/lib/arm/libgifreader.so
