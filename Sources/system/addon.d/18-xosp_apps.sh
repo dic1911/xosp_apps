@@ -17,8 +17,9 @@ framework/com.sony.device.jar
 framework/com.sonyericsson.system.jar
 framework/com.sonyericsson.updatecenter.jar
 framework/com.sonyericsson.uxpres.jar
+framework/com.sonyericsson.uxp.jar
 framework/com.sonymobile.provider.tasks.jar
-framework/SemcGenericUxpRes.apk
+framework/SemcGenericUxpRes/SemcGenericUxpRes.apk
 lib/libdlnaplayer.so
 app/AudioRecorder/AudioRecorder.apk
 app/ClockWidgets/ClockWidgets.apk
