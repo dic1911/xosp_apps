@@ -23,6 +23,7 @@ framework/SemcGenericUxpRes/SemcGenericUxpRes.apk
 lib/libdlnaplayer.so
 app/AudioRecorder/AudioRecorder.apk
 app/ClockWidgets/ClockWidgets.apk
+app/ClockWidgets(Black)/ClockWidgets(Black).apk
 app/Home/Home.apk
 app/WallpaperPicker/WallpaperPicker.apk
 app/Weather/Weather.apk
