@@ -39,6 +39,12 @@ priv-app/Album/lib/arm/libnativeio.so
 priv-app/Album/lib/arm/libsceniccore.so
 priv-app/Album/lib/arm/libspf.so
 priv-app/Album/lib/arm/libSQHashGenerator.so
+priv-app/Album/lib/arm64/libgifreader.so
+priv-app/Album/lib/arm64/libimagecalc.so
+priv-app/Album/lib/arm64/libmaketc.so
+priv-app/Album/lib/arm64/libsceniccore.so
+priv-app/Album/lib/arm64/libspf.so
+priv-app/Album/lib/arm64/libSQHashGenerator.so
 priv-app/Music/Music.apk
 priv-app/Music/lib/arm/libgabi++_shared.so
 priv-app/Music/lib/arm/libgnmc_decoder.1.1.8.so
