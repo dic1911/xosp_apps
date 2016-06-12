@@ -3,18 +3,33 @@
 
 #XOSPApps
 
-  - What are those?
-  XOSPApps are the complete set of Xperia Apps, it is separate universal flashable zip for arm and x86 devices compatible with XOSP ROM
-  - Why separated?
-  Because Deltas will be integrated soon in the ROM and the XOSPApps zip cannot be resized and unpacked because of compression and also because the ROM size is too heavy and for the fact that the apps are universal, i mean nothing is changed for any of our devices, so it's useless to include them in each ROM Zip, but instead we will include only Home.apk and textinput-tng as included apps in the ROM,and for the other ones the user will have to download the apps separate as for the GApps. 
-  - So for each release i will need to download the XOSPApps?
-  Not necessary, because with Deltas i will make more releases with small fixes and with no Xperia Updates maybe, so the when you will apply a Delta update the current XOSPApps will be backuped and restored after the installation.
+##What are those?
+  XOSPApps are the complete set of Xperia Apps, it is a separate universal flashable zip for arm,arm64 and x86 devices compatible with XOSP ROM
+##Why separated?
+  Because there is no reason to keep them integrated in the ROM for these simple reasons:
+  - Before Deltas, it was a  matter of zip size. It was too much! So for the fact that the apps were universal we decided to make them separate in order to be available for the users to get them IF they want to.
+  - It is a Minimal ROM so the user should decide or not to flash these apps
+  - Deltas! With the RL6 Revision 1 Deltas are integrated in the ROM so including XOSPApps in every Delta update will be useless
+
+##But I still see some Xperia apps after flashing the ROM  
+  Yes you're right but those are the essentials ones. Because for example the Launcher is essential same also for the keyboard for example so in order to get the system ready and to grant a complete experience for the user without the complete set of XOSPApps these apps are going to be included every time in the ROM:
+  - Home
+  - textinput-tng aka Xperia Keyboard
+  - SemcClock
+  - SemcEmail
+  - Xperia Services
+
+##So for each release i will need to download the XOSPApps?
+  Not necessary, because with the Weekly Deltas there are going to be small fixes but almost for sure with no Xperia Updates, so when you're going to apply the new Delta update the current XOSPApps installed are going to be backuped and restored after the installation.
+
+##Where can I get them?
+  Right here: https://basketbuild.com/devs/XOSP/XOSPApps
 
 ##NOTES
 
-  - These Apps are ment to be flashed only on XOSP ROM, so please do NOT use them on other kind of ROM 
+  - These Apps are ment to be flashed only on XOSP ROM, so please do NOT use them on other kind of ROMs 
   - If you want to use the apps for other porpouse then don't forget to write from where did you picked them.
-  - The Apps are universally ported for arm and x86 based architecture but there are NOT tested on arm64 based architecture 
+  - The Apps are now universally ported for all architectures
 
 ##XPERIA Apps included in XOSPApps package:
 
