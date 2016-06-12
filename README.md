@@ -18,23 +18,25 @@
 
 ##XPERIA Apps included in XOSPApps package:
 
-  - Xperia Z5 Home app
-  - Album App
-  - PhotoEditor
-  - PhotoAnalyzer
-  - Xperia Keyboard (aka textinput-tng)
-  - Music (former WALKMAN)
-  - Video
-  - SemCalendar
-  - AudioRecorder (Material Version)
-  - ClockWidgets
-  - Sketch
-  - SmartConnect
-  - WallpaperPicker (For Xperia Z5 custom wallpapers)
-  - Weather App
-  - Wheater Widget
-  - Walkman Widget
-  - Track ID
+ - Xperia Z5 Home app
+ - Album App
+ - Music (former WALKMAN)
+ - PhotoAnalyzer
+ - PhotoEditor
+ - SemCalendar
+ - SomcPodcast
+ - Video
+ - SemcClock
+ - SemcEmail
+ - Xperia Keyboard (aka textinput-tng)
+ - AudioRecorder (Material Version)
+ - ClockWidgets
+ - ClockWidgets (Black)
+ - WallpaperPicker (For Xperia X custom wallpapers)
+ - Weather App
+ - Wheater Widget
+ - Walkman Widget
+ - WorldClockWidget
   
 
 ##Credits
