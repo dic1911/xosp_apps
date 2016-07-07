@@ -82,6 +82,7 @@ case "$1" in
       R=""
       [ -n "$REPLACEMENT" ] && R="$S/$REPLACEMENT"
       [ -f "$C/$S/$FILE" ] && restore_file $S/"$FILE" "$R"
+      echo "ro.xosp.apps=dirty" >> /system/build.prop
     done
   ;;
   pre-backup)
