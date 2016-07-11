@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
 	xosp_apps/arm64/Album/lib/arm/libSQHashGenerator.so:system/priv-app/Album/lib/arm/libSQHashGenerator.so \
 	xosp_apps/arm64/Album/lib/arm/libdrmstream_depjb.so:system/priv-app/Album/lib/arm/libdrmstream_depjb.so \
 	xosp_apps/arm64/Album/lib/arm/libjpeguser.so:system/priv-app/Album/lib/arm/libjpeguser.so \
-	xosp_apps/arm64/Album/lib/arm/libnativeio.so:system/priv-app/Album/lib/arm/libnativeio.so \
+	xosp_apps/arm64/Album/lib/arm/libnativeio.so:system/priv-app/Album/lib/arm/libnativeio.so 
 endif
 
 PRODUCT_COPY_FILES += \
