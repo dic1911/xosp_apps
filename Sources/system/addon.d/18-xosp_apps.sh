@@ -29,16 +29,6 @@ app/WallpaperPicker/WallpaperPicker.apk
 app/Weather/Weather.apk
 app/WeatherWidget/WeatherWidget.apk
 app/WorldClockWidget/WorldClockWidget.apk
-priv-app/Album/Album.apk
-priv-app/Album/lib/arm/libdrmstream_depjb.so
-priv-app/Album/lib/arm/libgifreader.so
-priv-app/Album/lib/arm/libimagecalc.so
-priv-app/Album/lib/arm/libjpeguser.so
-priv-app/Album/lib/arm/libmaketc.so
-priv-app/Album/lib/arm/libnativeio.so
-priv-app/Album/lib/arm/libsceniccore.so
-priv-app/Album/lib/arm/libspf.so
-priv-app/Album/lib/arm/libSQHashGenerator.so
 priv-app/Music/Music.apk
 priv-app/Music/lib/arm/libgabi++_shared.so
 priv-app/Music/lib/arm/libgnmc_decoder.1.1.8.so
