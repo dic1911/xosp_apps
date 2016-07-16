@@ -32,4 +32,4 @@ PRODUCT_COPY_FILES += \
 	xosp_apps/essentials/SemcClock/SemcClock.apk:system/priv-app/SemcClock/SemcClock.apk \
 	xosp_apps/essentials/SemcEmail/SemcEmail.apk:system/priv-app/SemcEmail/SemcEmail.apk \
 	xosp_apps/essentials/XperiaServices/XperiaServices.apk:system/app/XperiaServices/XperiaServices.apk \
-	xosp_apps/essentials/Album/Album.apk:system/app/Album/Album.apk
+	xosp_apps/essentials/Album/Album.apk:system/priv-app/Album/Album.apk
